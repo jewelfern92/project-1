@@ -297,7 +297,7 @@ a.gaggan
 
 
 /*media queries start*/
-@media (min-device-width: 865px)
+@media (max-width: 865px)
 {
 	.introduction
 	{
@@ -337,7 +337,7 @@ a.gaggan
 	}
 }
 @media only screen
-and (min-device-width : 600px)
+and (max-width : 600px)
 {
 	.introduction
 	{
